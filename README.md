@@ -1,0 +1,2 @@
+# digiarheoloogia
+Loeng arheoloogide magistriseminaris
